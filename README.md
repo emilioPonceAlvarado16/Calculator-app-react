@@ -1,2 +1,2 @@
 # Calculator-app-react
-Created with CodeSandbox
+This is a simple calculator using **reactjs**.
